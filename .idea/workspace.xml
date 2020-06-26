@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba74827a-d832-41f0-a618-d7523403644e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\Go" />
+  <component name="ProjectId" id="1amdBcvpiKf2ghgVP3KONlh3Bjr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="D:/GoModule/src/go-admin" />
+  </component>
+  <component name="RunManager" selected="Go Test.TestAdapter_Execute in learning/Adapter">
+    <configuration name="TestAdapter_Execute in learning/Adapter" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learning" />
+      <working_directory value="$PROJECT_DIR$/Adapter" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="learning/Adapter" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestAdapter_Execute$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestAgentTask_RentHouse in learning/Proxy" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learning" />
+      <working_directory value="$PROJECT_DIR$/Proxy" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="learning/Proxy" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestAgentTask_RentHouse$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGetInstance in learning/Singleton" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learning" />
+      <working_directory value="$PROJECT_DIR$/Singleton" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="learning/Singleton" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestGetInstance$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestNewRestaurant in learning/Factory" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learning" />
+      <working_directory value="$PROJECT_DIR$/Factory" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="learning/Factory" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestNewRestaurant$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestWrapLogger in learning/Decorator (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learning" />
+      <working_directory value="$PROJECT_DIR$/Decorator" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="learning/Decorator" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestWrapLogger$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestAdapter_Execute in learning/Adapter" />
+        <item itemvalue="Go Test.TestAgentTask_RentHouse in learning/Proxy" />
+        <item itemvalue="Go Test.TestNewRestaurant in learning/Factory" />
+        <item itemvalue="Go Test.TestGetInstance in learning/Singleton" />
+        <item itemvalue="Go Test.TestWrapLogger in learning/Decorator (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.cn,direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1104" y="177" key="#Go_Modules_(vgo)" timestamp="1587344930205">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1104" y="177" key="#Go_Modules_(vgo)/0.0.1920.1040@0.0.1920.1040" timestamp="1587344930205" />
+    <state x="1165" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587349464775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1165" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587349464775" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1588902987874">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588902987874" />
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom" timestamp="1587798403938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587798403938" />
+    <state width="1876" height="282" key="GridCell.Tab.0.center" timestamp="1587798403938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587798403938" />
+    <state width="1876" height="282" key="GridCell.Tab.0.left" timestamp="1587798403938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587798403938" />
+    <state width="1876" height="282" key="GridCell.Tab.0.right" timestamp="1587798403938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587798403938" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1587519768722">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1587519768722" />
+  </component>
+</project>
